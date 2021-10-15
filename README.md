@@ -21,3 +21,6 @@ A list of page_data.csv wikipedia pages which could not be identified by ORES an
 
 ## wp_wpds_politicians_by_country.csv
 A list of page_data.csv wikipedia pages which were identified by ORES and assigned a predicted quality. 
+
+# Reflection (questions in python notebook)
+Ultimately, I feel that the bias uncovered was not very surprising. It makes a lot of sense that the data would mostly reflect the community which primarily contributes to the data. I also believe the bias uncovered is at least in part due to the measurement used. Even though I believe in the conclusion, I'm not sure that a higher density of FA/GA articles is actually due to a western bias. It could be due to information availability. It's possible that some countries do not document politician behavior as thoroughly as others. If I were to be making a claim about the existence of bias in a more rigorous setting I would want to do a much more thorough investigation.
